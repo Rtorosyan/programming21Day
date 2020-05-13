@@ -30,7 +30,11 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.Справочники</subsystems>
+  <subsystems>Subsystem.Документы</subsystems>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.ФизическиеЛица</catalogs>
+  <documents>Document.ПоступлениеТоваров</documents>
+  <documents>Document.РеализацияТоваров</documents>
+  <documentJournals>DocumentJournal.ТоварныеДокументы</documentJournals>
 </mdclass:Configuration>
